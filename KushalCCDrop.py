@@ -5,7 +5,7 @@ import threading
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ================= 🔐 TERA CONFIG DATA =================
-BOT_TOKEN = '8704796295:AAHZ4w0Usx4ojywgwLXkBAZdOkC-TphoAAY'
+BOT_TOKEN = '8704796295:AAHc3WPYZs0Vxn6PdLVJcDLkjUgjtOZmJx8'
 OWNER_ID = 6632236983  
 
 VIDEO_URL = "https://t.me/KUSHALSTORElINK/3"
