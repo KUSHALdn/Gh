@@ -50,7 +50,7 @@ def send_premium_drop(group_id):
     is_approved = random.choice([True, False, True]) 
     p_id = random.choice(PREMIUM_IDS) # Rotating your Premium IDs
     
-    header = "<b>🌠 𝐀𝐏𝐏𝐑𝐎𝐕𝐄𝐃 ✅</b>" if is_approved else "<b>🔻 𝐃𝐄𝐂𝐋𝐈𝐍𝐄𝐃 ❌</b>"
+    header = "<b> 𝐀𝐏𝐏𝐑𝐎𝐕𝐄𝐃 </b>" if is_approved else "<b>🔻 𝐃𝐄𝐂𝐋𝐈𝐍𝐄𝐃 ❌</b>"
     
     # PREMIUM DESIGN (Clean & Sharp)
     design = (
